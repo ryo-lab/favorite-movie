@@ -4,7 +4,7 @@ let questions = [
         "answers":[
             ["是的",2],
             ["不是",3],
-            ["不知道",4]
+            ["who konws",4]
         ]
     },
     {
