@@ -1,6 +1,6 @@
 let questions = [
     {
-        "question":"你現在對今年非常樂觀？",
+        "question":"你現在對今年非常樂觀？??????",
         "answers":[
             ["是的",3],
             ["不是",3],
